@@ -1,0 +1,15 @@
+{
+    "Newuser1":{
+        "nombreHacedor": "Andres Felipe Suarez Diaz",
+        "mailHacedor": "andressd@mail.com" ,
+        "telefonoHacedor": "3095554321" ,
+        "passwordHacedor": "Andres123" 
+    
+    },
+    "Newuser2":{
+        "nombreCliente": "Jorge Hernando Sanchez Rodriguez",
+        "mailCliente": "george@mail.com" ,
+        "telefonoCliente": "3995551234" ,
+        "passwordCliente": "G1234" 
+    }
+}

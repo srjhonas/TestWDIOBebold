@@ -1,0 +1,9 @@
+{
+    "NewRegistro":{
+        "direccion": "Andres Felipe Suarez Diaz",
+        "barrio": "andressd@mail.com" ,
+        "valor": 60000 ,
+        "observaciones": "Test WDIO Prueba" 
+    
+    }
+}

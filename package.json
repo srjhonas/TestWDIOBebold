@@ -1,0 +1,32 @@
+{
+  "name": "test-wdio-bebold",
+  "version": "1.0.0",
+  "description": "Programa para pruebas semillero BeBold",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio wdio.conf.js"
+  },
+  "keywords": [
+    "WebDriverio",
+    "test"
+  ],
+  "author": "Jhon Alexander Sanchez Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/register": "^7.17.7",
+    "@wdio/allure-reporter": "^7.19.1",
+    "@wdio/local-runner": "^7.19.3",
+    "@wdio/mocha-framework": "^7.19.3",
+    "@wdio/spec-reporter": "^7.19.1",
+    "chromedriver": "^100.0.0",
+    "local-runner": "^0.1.1-alpha",
+    "wdio-chromedriver-service": "^7.3.2",
+    "webdriverio": "^7.19.3"
+  },
+  "dependencies": {
+    "@wdio/cli": "^7.19.3"
+  }
+}
